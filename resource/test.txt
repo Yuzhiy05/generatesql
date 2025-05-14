@@ -1,0 +1,8 @@
+11111    2222   3333   
+
+今天真是个好日子  好日子  好A251113777899日子 
+
+天气很好A251003718899不是很好很差 是的 很差 diamond 跑步桶
+
+//其他细化命令
+cmake .. -G"Ninja" -DCMAKE_CXX_COMPILER="DA251003777899:\\workfile\\compiler\\clang\\llvm\\bin\\clang++.exe" -DCMAKE_SYSROOT="D:\\workfile\\compiler\\windows-msvc-sysroot" 
